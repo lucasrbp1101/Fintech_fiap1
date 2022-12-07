@@ -1,0 +1,48 @@
+
+.cartaodecredito{
+
+font-weight: bold;
+text-decoration: none;
+color: white;
+text-align: center;
+padding-top: 50px;
+padding-left: 5px;
+padding-right: 25px;
+
+
+}
+
+.btn_sinc{
+
+width: 320px;
+margin-top: 45px;
+background-color: #add8e6;
+margin-left: 450px;
+
+
+
+}
+
+form input{
+
+
+width: 380px;
+
+}
+
+
+.imagesinc{
+
+max-width: 100px;
+margin-left: 550px;
+padding-bottom: 10px;
+
+
+}
+
+
+.btn_sinc{
+
+margin-top: 10px;
+
+}

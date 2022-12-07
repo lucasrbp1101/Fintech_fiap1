@@ -1,0 +1,162 @@
+body {
+
+background-color: #FF8C00;
+
+}
+
+h1{
+
+
+	text-align: center;
+	font-weight: bold;
+	background-color: #FF8C00 ;
+	font - color: #FFFFFF;
+	color: black;
+
+}
+
+
+.fintech{
+
+
+padding: 20px;
+padding-bottom: 20px;
+right: 20px;
+}
+
+
+body{
+
+	padding-bottom: 20px;
+	background-color: #FF8C00  ;
+}
+
+
+form{
+
+padding-left: 450px;
+
+}
+
+
+form input{
+
+
+max-width: 320px;
+
+}
+
+
+.form-label{
+
+font-style: bold;
+
+}
+
+p{
+
+padding-left: 70px;
+text-decoration: underline;
+font-size: 22px;
+
+
+}
+
+button{
+
+
+background-color: green;
+border-radius: 10px;
+margin-top: 5px;
+height: 40px;
+
+
+
+}
+
+
+.btn-light{
+
+
+display: block;
+padding-bottom: 30px;
+padding-left: 40px;
+padding-right: 30px;
+margin-bottom: 40px;
+margin-left: 450px;
+width: 450px;
+
+
+
+
+
+}
+
+
+.btn-light{
+
+
+background-color: #CCCCCC;
+
+
+}
+
+
+.button
+
+{
+
+
+width: 330px;
+font-weight: bold;
+
+
+
+}
+
+
+.botao_cadastro{
+
+display: block;
+width: 330px;
+background-color: white;
+font-weight: bold;
+height: 50px;
+margin-top: 25px;
+}
+
+
+
+.blocoform{
+
+margin-bottom: 20px;
+
+}
+
+
+.texto_principalcadastro{
+
+text-align: center;
+
+
+}
+
+.cartao_img{
+
+margin-right: 50px;
+padding-right: 100px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

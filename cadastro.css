@@ -1,0 +1,56 @@
+.texto_principalcadastro{
+
+text-align: center;
+padding-bottom: 20px;
+padding-top: 30px;
+padding-right: 80px;
+text-decoration: none;
+font-weight: bold ;
+color: white;
+
+
+}
+
+
+.blocoform{
+
+align-items: center;
+padding-right: 50px;
+margin-right: 20px;
+
+
+
+
+}
+
+.imagecadastro{
+
+width: 12%;
+padding-top: 60px;
+
+
+
+}
+
+
+.botao_cadastro12{
+
+background-color: #03BB85;
+padding-left: 20px;
+width: 320px;
+text-align: center;
+margin-right: 20px;
+margin-top: 20px;
+
+
+
+}
+
+.textobotao{
+
+padding-right: 15px;
+font-weight: bold;
+
+
+
+}
